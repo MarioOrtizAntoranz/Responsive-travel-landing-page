@@ -1,0 +1,27 @@
+{
+  "name": "Sunweb-test-final",
+  "authors": [
+    "Mario Ortiz"
+  ],
+  "description": "Sunweb test for Altran",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "jquery",
+    "modernizr",
+    "normalize"
+  ],
+  "license": "MIT",
+  "homepage": "http://marioortiz.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "normalize-strings": "normalize#~1.0.4"
+  }
+}
